@@ -1,0 +1,15 @@
+D:\roman9\zadacha2\bin\Debug\net6.0\zadacha2.exe
+D:\roman9\zadacha2\bin\Debug\net6.0\zadacha2.deps.json
+D:\roman9\zadacha2\bin\Debug\net6.0\zadacha2.runtimeconfig.json
+D:\roman9\zadacha2\bin\Debug\net6.0\zadacha2.dll
+D:\roman9\zadacha2\bin\Debug\net6.0\zadacha2.pdb
+D:\roman9\zadacha2\obj\Debug\net6.0\zadacha2.csproj.AssemblyReference.cache
+D:\roman9\zadacha2\obj\Debug\net6.0\zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+D:\roman9\zadacha2\obj\Debug\net6.0\zadacha2.AssemblyInfoInputs.cache
+D:\roman9\zadacha2\obj\Debug\net6.0\zadacha2.AssemblyInfo.cs
+D:\roman9\zadacha2\obj\Debug\net6.0\zadacha2.csproj.CoreCompileInputs.cache
+D:\roman9\zadacha2\obj\Debug\net6.0\zadacha2.dll
+D:\roman9\zadacha2\obj\Debug\net6.0\refint\zadacha2.dll
+D:\roman9\zadacha2\obj\Debug\net6.0\zadacha2.pdb
+D:\roman9\zadacha2\obj\Debug\net6.0\zadacha2.genruntimeconfig.cache
+D:\roman9\zadacha2\obj\Debug\net6.0\ref\zadacha2.dll
